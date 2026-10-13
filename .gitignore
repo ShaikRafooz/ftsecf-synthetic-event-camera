@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+ftsecf_captured_frames/
+*.avi
+*.mp4
